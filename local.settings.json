@@ -1,0 +1,11 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "EndpointUri": "https://poc-cosmos-crud.documents.azure.com:443/",
+    "CosmosKey": "5WPxvzuQKVELbyTxMKb5dk9k9A8TWoNuy4g6AXythG3z1c7tYwyQ7mV7jgXtzgkzcR4RSfyuQvz6GendHNlRtA==",
+    "CosmosDBName": "poccosmosdb",
+    "ContainerName": "poccontainer"
+  }
+}
